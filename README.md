@@ -55,14 +55,14 @@ python SultanBulut_MetroSimulation.py
 ```
 1. AŞTİ'den OSB'ye:
 En az aktarmalı rota: AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB
-En hızlı rota (15 dakika): AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB
+En hızlı rota (25 dakika): AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB
 ```
 
 ### Senaryo 2: **Batıkent → Keçiören**
 ```
 2. Batıkent'ten Keçiören'e:
 En az aktarmalı rota: Batıkent -> Demetevler -> Gar -> Keçiören
-En hızlı rota (17 dakika): Batıkent -> Demetevler -> Gar -> Keçiören
+En hızlı rota (21 dakika): Batıkent -> Demetevler -> Gar -> Keçiören
 ```
 
 ---
